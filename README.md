@@ -26,7 +26,7 @@ The objective is to analyze customer behavior, clean and preprocess real data, e
 
 > ⚠️ The original CSV file may not be included in this repository due to licensing or sharing restrictions.  
 > The analysis can be reproduced using the same dataset available on Kaggle.
-
+Dataset link: <https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers>
 ---
 
 ## 🛠 Tools & Technologies
@@ -37,6 +37,13 @@ The objective is to analyze customer behavior, clean and preprocess real data, e
 - matplotlib  
 
 ---
+## ▶️ How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   - `pip install pandas numpy matplotlib`
+3. Open `bank_customers_data_analysis.ipynb` and run all cells.
+
 
 ## 🔧 Data Preprocessing
 
