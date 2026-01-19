@@ -75,7 +75,7 @@ The exploratory analysis included:
 ## 🔍 Key Findings
 
 - **Variable Redundancy:**  
-  A near-perfect linear correlation was found between *Credit Limit* and *Average Open to Buy*, indicating redundancy and potential multicollinearity in predictive models.
+  A near-perfect linear correlation was found between *Credit Limit* and *Average Open to Buy*, indicating redundancy and potential multicollinearity in predictive models
 
 - **Customer Activity Patterns:**  
   The relationship between transaction count and total transaction amount revealed different customer profiles:
